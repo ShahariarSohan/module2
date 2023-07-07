@@ -1,0 +1,31 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section1{
+    height:400px;
+    background-color: #95a5a6;
+    background-image: url("../images/IMG_2023-01-20-15-42-51-601.jpg");
+    background-size: 50%;
+    background-repeat:no-repeat;
+    background-position: right top;
+    
+
+}
+.section2{
+    height:400px;
+    background-color:#74b9ff;
+    background-image: url("../images/IMG_2023-01-20-17-16-05-749.jpg");
+    background-size: 50%;
+    background-repeat:no-repeat;
+   
+
+}
+.section3{
+    height:400px;
+    background-color:#a29bfe;
+    background-image: url("../images/IMG_20230428_142503.jpg");
+    background-size:50%;
+    background-repeat:no-repeat;
+    background-position: center top;
+
+}

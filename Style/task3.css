@@ -1,0 +1,21 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.first-div{
+    background-color:#ff7675;
+    color:#2d3436;
+    padding:30px;
+    border-radius: 5px;
+    
+}
+h1{
+    color:#6c5ce7;
+    text-transform: uppercase;
+    text-align: center;
+}
+span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    text-align: justify;
+}

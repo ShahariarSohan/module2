@@ -1,0 +1,20 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color:#d63031;
+    text-align: center;
+}
+ul{
+    text-align:center;
+
+}
+li{
+    color:#2d3436;
+    font-weight: 800;
+}
+p{
+    background-color: #74b9ff;
+    padding:10px;
+    border:3px dashed #d63031;
+}
